@@ -1,6 +1,6 @@
-**(!) iOS landscape mode only**
+**:warning: iOS landscape mode only**
 
-Cordova BarcodeScanner plugin landscape mode only for iOS
+Cordova barcode scanner plugin in landscape orientation - only for iOS
 
 ---
 
