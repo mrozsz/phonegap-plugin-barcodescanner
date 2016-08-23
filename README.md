@@ -1,7 +1,8 @@
+*(!) IOS only in landscape mode*
+---
+
 # PhoneGap Plugin BarcodeScanner
 ================================
-
-[![Build Status](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner.svg)](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner)
 
 Cross-platform BarcodeScanner for Cordova / PhoneGap.
 
